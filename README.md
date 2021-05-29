@@ -1,2 +1,2 @@
 # SlotMachineGame-
-A Slotb Machine Casino Based Game 
+A Slot Machine Casino Based Game 
